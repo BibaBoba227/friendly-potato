@@ -1,0 +1,26 @@
+body{
+   font-size:40px;
+}
+
+form{
+   font-size: 20px;
+}
+
+table, tr, td{
+
+   margin: 20px;
+   padding: 7px;
+
+   border: 2px solid black;
+}
+
+.margin{
+   margin: 40px 40px 40px 40px;
+   border: 2px solid black;
+   font-size:40px;
+}
+.button1{
+   margin: 20px 20px 20px 20px;
+   padding: 10px 20px 10px 20px;
+   font-size: 30px;
+}
